@@ -1,0 +1,22 @@
+# General Files
+*.log
+*.DS_Store
+*.zip
+*.rar
+*.7z
+
+# Python/Jupyter Files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# PyTorch/Deep Learning Files
+# The .pth file is your trained model weights
+*.pth
+*.pt
+*.bin
+
+# Data Directories
+# Your Python code will download the data into this folder,
+# but we do not want to upload the downloaded data files themselves.
+data/
