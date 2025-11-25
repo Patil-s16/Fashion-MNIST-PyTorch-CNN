@@ -24,7 +24,7 @@ This project implements a foundational **Convolutional Neural Network (CNN)** us
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_GITHUB_REPOSITORY_URL]
+    git clone [https://github.com/Patil-s16/Fashion-MNIST-PyTorch-CNN]
     cd Fashion-MNIST-PyTorch-CNN
     ```
 
